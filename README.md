@@ -56,7 +56,7 @@ A minimum of about 30 images are suggested for training and at least 10-20 for v
 python vilkas_door.py
 :
 The script will go through a fix number of training epocs for the new classification layer, a very small number of epocs for model fine-tuning.
-Classification will then be conducted on the provided samples configured in the script. g
+Classification will then be conducted on the provided samples configured in the script. 
 
 
 ## Model Architecture
